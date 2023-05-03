@@ -1,16 +1,16 @@
-### Hi there 👋
-
-<!--
-**shalimovVladislav/shalimovVladislav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there 👋
+-----------------------------------------------------
+I'm Frontend Developer. Actively looking for a job.<br>
+### Education :man_student:<br>
+* Degree: Bachelor in Informatics and Computer Engineering(09.03.01)<br>
+* Institute: Kalashnikov Izhevsk State Technical University<br>
+* Speciality: Automated Information Processing and Management Systems<br>
+* Start date: September 2022<br>
+* End date: to this day<br>
+### Additional education :book:<br>
+* Courses:
+  * **Hexlet** programming school:
+      * Profession: Frontend developer<br>
+      * Start date: August 2022<br>
+      * End date: to this day<br>
+## My tech stack
